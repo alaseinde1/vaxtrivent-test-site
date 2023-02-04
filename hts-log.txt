@@ -1,0 +1,56 @@
+HTTrack3.49-2 launched on Sat, 04 Feb 2023 03:16:27 at https://www.vaxtrivent.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://www.vaxtrivent.com/ -O "/Users/alaseinde/websites/vax" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:18:23	Error: 	"Not Found" (404) at link https://www.vaxtrivent.com/pricing-services-ready (from https://www.vaxtrivent.com/about-us)
+03:18:23	Error: 	"Not Found" (404) at link https://www.vaxtrivent.com/schedule-appointment-ready (from https://www.vaxtrivent.com/about-us)
+03:18:31	Error: 	"Not Found" (404) at link https://www.vaxtrivent.com/news-notes-ready (from https://www.vaxtrivent.com/blog/2020/5/1/blog-stories)
+03:18:35	Warning: 	Moved Permanently for static1.squarespace.com/static/578b7f2eff7c50a070650cb6/5e92aee9088a700728f264bd/5e92af4a14b45c6b9b82ef60/1586673373287/?format=1500w
+03:18:35	Warning: 	Warning moved treated for static1.squarespace.com/static/578b7f2eff7c50a070650cb6/5e92aee9088a700728f264bd/5e92af4a14b45c6b9b82ef60/1586673373287/?format=1500w (real one is https://images.squarespace-cdn.com/content/578b7f2eff7c50a070650cb6/1586672145522-1UU93VDKWHXQ2I0289T0/image-asset.jpeg?format=1500w&content-type=image%2Fjpeg)
+03:19:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/@sqs/polyfiller/1.6/modern.js
+03:19:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-a9e4bb07bb8d9c8fc4464-min.en-US.js
+03:19:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js
+03:19:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-c6a38111aec507149cb3d-min.en-US.js
+03:19:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-fd2acc815706e38fcfdf0-min.en-US.js
+03:19:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/scripts-compressed/common-vendors-1e40c2d559aaea1e42779-min.en-US.js
+03:19:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/scripts-compressed/common-36db64cb7e7424caa7922-min.en-US.js
+03:19:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/scripts-compressed/performance-583aaa5ee6ef2ffadfe40-min.en-US.js
+03:19:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://images.squarespace-cdn.com/content/v1/578b7f2eff7c50a070650cb6/1586234495723-XOWBG2RZ32R9RBUD26O3/Screen+Shot+2020-04-06+at+10.34.32+PM.jpg?format=1500w
+03:19:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://images.squarespace-cdn.com/content/v1/573cc03cc2ea51f428cb5dd6/1485544884883-T67AD9WY50LUF4VOFQR8/image-asset.jpeg
+03:19:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://images.squarespace-cdn.com/content/v1/573cc03cc2ea51f428cb5dd6/1470092977225-50P98KC41C7C07JVYJV3/image-asset.jpeg
+03:19:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://images.squarespace-cdn.com/content/v1/573cc03cc2ea51f428cb5dd6/1494428317951-R5DJD7STX2TGR03B66PV/20130731_Trade+100_0202.jpg
+03:19:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/scripts-compressed/common-eafaea618b76bf9d37e6b-min.en-US.js
+03:19:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/scripts-compressed/performance-2b31864e00dd18f9fadd4-min.en-US.js
+03:20:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://images.squarespace-cdn.com/content/v1/573cc03cc2ea51f428cb5dd6/1470677942234-06KBGVGXR0V2QUD4H2CU/image-asset.jpeg
+03:20:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://images.squarespace-cdn.com/content/v1/578b7f2eff7c50a070650cb6/1567724398007-NX63U3H8GZ9ESVYW6JSH/9-Mobile-Etisalat-Logo.png
+03:20:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://images.squarespace-cdn.com/content/578b7f2eff7c50a070650cb6/1586922365066-GAV7HP2Z10WD5YLLY2OC/Screen+Shot+2020-04-14+at+9.45.25+PM.png?content-type=image%2Fpng
+03:20:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-107d320d3fb433224e968-min.en-US.js
+03:20:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/scripts-compressed/common-76a81ecf842f8e8e51798-min.en-US.js
+03:20:09	Warning: 	HTML file (158783 bytes) retransferred due to lack of cache: static1.squarespace.com/static/578b7f2eff7c50a070650cb6/5e92aee9088a700728f264bd/5e92af4a14b45c6b9b82ef60/1586673373287/?format=1500w
+03:20:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/error-dark.png
+03:20:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/error-dark@2x.png
+03:20:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/play-button.png
+03:20:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/play-button@2x.png
+03:20:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/edit-aviary-light@2x.png
+03:20:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/edit-info-light.png
+03:20:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/edit-info-light@2x.png
+03:20:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/trash-9-light.png
+03:20:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/trash-9-light@2x.png
+03:20:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/trash-9-red.png
+03:20:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/trash-9-red@2x.png
+03:20:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/getty-16-light.png
+03:20:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/getty-32-light.png
+03:20:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/shopping-cart-16-light.png
+03:20:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): assets.squarespace.com/universal/images-v6/damask/shopping-cart-32-light.png
+03:20:55	Warning: 	HTML file (48961 bytes) retransferred due to lack of cache: https://www.vaxtrivent.com/search
+03:20:56	Warning: 	HTML file (70309 bytes) retransferred due to lack of cache: https://www.vaxtrivent.com/company-statement
+03:20:57	Warning: 	HTML file (57710 bytes) retransferred due to lack of cache: https://www.vaxtrivent.com/terms-conditions
+03:20:58	Error: 	"" (404) at link https://www.vaxtrivent.com/pricing-services-ready (from https://www.vaxtrivent.com/about-us)
+03:21:00	Warning: 	HTML file (68087 bytes) retransferred due to lack of cache: https://www.vaxtrivent.com/blog/2020/5/1/blog-stories
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 36 seconds : 88 links scanned, 118 files written (30072289 bytes overall) [12367150 bytes received at 44808 bytes/sec], 14069866 bytes transferred using HTTP compression in 59 files, ratio 27%, 1.4 requests per connection
+(4 errors, 41 warnings, 0 messages)
